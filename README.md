@@ -2,10 +2,9 @@
 ---
 - ***For:*** University of Utah Coding Bootcamp
 - ***Developer:*** Justin Lambeth
-- ***Deployment Date*** 5/3/2020
-- ***APIs*** OMDB, Spotify, Bandsintown
-- ***Built With*** Node.js, Javascript
-- ***Demo***
+- ***Deployment Date:*** 5/3/2020
+- ***APIs:*** OMDB, Spotify, Bandsintown
+- ***Built With:*** Node.js, Javascript
 
 ## Description
 ---
